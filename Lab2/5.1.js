@@ -1,10 +1,10 @@
 /*
-    `5.Praca z plikami JSON:
-        •Stworzyć bazę danych (3 osoby) w zmiennej opartej o strukturę JSON. (zmienna tekstowy)
-        •Skonwertować  tekstowy na obiekt(JSON.parse),
-        •Wyświetlićosoby w pętli,
-        •Dodać osobę,
-        •Zamienić na ciąg znakówi wyświetlić.`
+5.Praca z plikami JSON:
+    - Stworzyć bazę danych (3 osoby) w zmiennej opartej o strukturę JSON. (zmienna tekstowy)
+    - Skonwertować  tekstowy na obiekt(JSON.parse),
+    - Wyświetlićosoby w pętli,
+    - Dodać osobę,
+    - Zamienić na ciąg znakówi wyświetlić.
 */
 
 const json = `

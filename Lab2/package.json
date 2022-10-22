@@ -1,0 +1,12 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.1.js",
+  "keywords": [],
+  "author": "Bartłomiej Wiercigroch",
+  "license": "ISC",
+  "dependencies": {
+    "@oliveringle/caesar-cipher": "^1.0.2"
+  }
+}

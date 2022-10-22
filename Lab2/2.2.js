@@ -1,5 +1,6 @@
 /*
-Co jedną sekundę wyświetl pięć razy literę ‘a’ w odstępach 10 ms
+2. Zadania liczniki:
+    - Co jedną sekundę wyświetlpięć razy literę‘a’ w odstępach10 ms,
 */
 
 let counter = 0;

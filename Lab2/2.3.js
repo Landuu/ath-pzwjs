@@ -1,6 +1,6 @@
 /*
-    Dla 30 elementowej tablicy (z alfabetem) wyświetlić po kolei co 0,5s litery przy czym jeżeli jest to samogłoska 
-    dodać przerwę 2 sekundową.
+2. Zadania liczniki:
+    - Dla 30 elementowej tablicy (z alfabetem) wyświetlić po kolei co 0,5s litery przy czym jeżeli jest to samogłoska dodać przerwę 2 sekundową.
 */
 
 const charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

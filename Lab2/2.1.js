@@ -1,5 +1,6 @@
 /*
-    Za pomocą liczników wykonaj zdarzenie wyświetlania czasu, który upłynął od startu aplikacji, co 1 sekundę,
+2. Zadania liczniki:
+    - Za pomocą liczników wykonaj zdarzenie wyświetlania czasu, który upłynął od startu aplikacji, co 1 sekundę,
 */
 
 const startTimestamp = Date.now();
@@ -9,7 +10,7 @@ const print = () => {
         const elapsed = (Date.now() - startTimestamp) / 1000;
         console.log(elapsed);
         print();
-    }, 1000)    
+    }, 1000)
 };
 
 print();
