@@ -1,9 +1,13 @@
 {
     "include": ["./src/**/*"],
     "compilerOptions": {
-      "noImplicitAny": true,
-      "target": "ES6",
+      "module": "ESNext",
+      "target": "ESNext",
+      "outDir": "./dist",
+      "removeComments": true,
+      "preserveConstEnums": true,
       "moduleResolution": "node",
-      "esModuleInterop": true
-    }
+      "esModuleInterop": true,
+      "experimentalDecorators": true
+    },
   }

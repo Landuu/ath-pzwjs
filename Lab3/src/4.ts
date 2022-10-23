@@ -1,4 +1,7 @@
-// 4. Zdefiniuj inferfejs (warunkowy na 5) osoba i wykorzystaj go w funkcji wyświetlające dane tej osoby,
+/*
+    4. Zdefiniuj inferfejs (warunkowy na 5) osoba i wykorzystaj go w funkcji wyświetlające dane tej
+        osoby,
+*/
 
 interface Person {
     name: string,

@@ -1,18 +1,19 @@
 {
-  "name": "lab3",
+  "name": "lab3new",
   "version": "1.0.0",
   "description": "",
-  "main": "2.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx tsc -w",
+    "build": "npx tsc",
+    "start": "nodemon"
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Bartłomiej Wiercigroch",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-typescript": "^6.0.0-alpha.1",
+    "nodemon": "^2.0.20",
     "typescript": "^4.8.4"
   }
 }
