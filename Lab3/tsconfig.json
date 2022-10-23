@@ -1,0 +1,9 @@
+{
+    "include": ["./src/**/*"],
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "target": "ES6",
+      "moduleResolution": "node",
+      "esModuleInterop": true
+    }
+  }
