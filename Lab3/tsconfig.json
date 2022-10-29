@@ -4,7 +4,7 @@
       "module": "ESNext",
       "target": "ESNext",
       "outDir": "./dist",
-      "removeComments": true,
+      "removeComments": false,
       "preserveConstEnums": true,
       "moduleResolution": "node",
       "esModuleInterop": true,
